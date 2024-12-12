@@ -12,5 +12,5 @@ createRoot(document.getElementById('root')).render(
     <App />
     </CartReducer>
     </BrowserRouter>
-  </StrictMode>,
+  </StrictMode>
 )
